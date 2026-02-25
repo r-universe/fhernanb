@@ -5,3 +5,6 @@
 [submodule "DiscreteDists"]
 	path = DiscreteDists
 	url = https://github.com/fhernanb/discretedists
+[submodule "RelDists"]
+	path = RelDists
+	url = https://github.com/fhernanb/reldists
