@@ -8,3 +8,6 @@
 [submodule "RelDists"]
 	path = RelDists
 	url = https://github.com/fhernanb/reldists
+[submodule "ZeroOneDists"]
+	path = ZeroOneDists
+	url = https://github.com/fhernanb/zeroonedists
